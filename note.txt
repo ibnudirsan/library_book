@@ -1,0 +1,13 @@
+Anggota dapat meminjam buku dengan syarat dan ketentuan
+ Anggota tidak diperbolehkan meminjam lebih dari 2 buku
+ Buku yang dipinjam tidak boleh dipinjam oleh anggota lain
+ Anggota saat ini tidak sedang dikenakan penalti
+Anggota mengembalikan buku dengan syarat dan ketentuan
+ Buku yang dikembalikan adalah buku yang dipinjam oleh member
+ Jika buku dikembalikan setelah lebih dari 7 hari, maka anggota akan dikenakan denda. Anggota yang dikenakan denda tidak dapat meminjam buku selama 3 hari.
+Periksa bukunya
+ Menampilkan semua buku dan kuantitas yang ada
+ Buku yang dipinjam tidak dihitung
+Pemeriksaan anggota
+ Menampilkan semua anggota yang ada
+ Jumlah buku yang dipinjam oleh setiap anggota
